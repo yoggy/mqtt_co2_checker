@@ -1,0 +1,7 @@
+mqtt_host:      iot.eclipse.org
+mqtt_port:      1883
+mqtt_use_auth:  false
+mqtt_username:  username
+mqtt_password:  password
+mqtt_subscribe_topic: test/sensor/co2
+mqtt_publish_topic: test/google-home/notify
